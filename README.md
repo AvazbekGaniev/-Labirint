@@ -1,1 +1,1 @@
-# -Labirint
+Labyrinth-Game is a web-based maze game built using JavaScript, HTML, and CSS. Players must navigate through levels, collect power-ups and keys, and avoid obstacles to reach the end goal. The game features colorful graphics, sound effects, and a high-score board for competitive play.
